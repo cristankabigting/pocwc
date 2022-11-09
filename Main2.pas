@@ -1,5 +1,8 @@
 unit Main2;
 
+// Author: Cristan Kabigting
+
+
 interface
 
 uses
